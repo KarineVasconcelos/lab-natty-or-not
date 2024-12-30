@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Feliz 2025 especial! ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma personagem que vive no imaginário popular deixa um mensagem para 2025...  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para geração da mensagem escrita;
+IA Generativa ElevenLabs para geração da voz;
+Software Descript para a montagem do podcast. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para escrever a mensagem que foi levada para o "ElevenLabs" inserir uma voz de acordo com a faixa etária da personagem causando um ambiente envolvente para a narração, enquanto o "Descript" foi usado para a edição final e geração do link web para compartilhar o conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://web.descript.com/5a0a688f-800d-4827-ab80-9457fbdb1079/2ce3c?lite=false)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Uma viagem fazer algo irreal se tornar tão real...
 ```
 
 ### Exemplos e Insigths
